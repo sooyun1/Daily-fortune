@@ -35,7 +35,7 @@ export const HeroScreen: React.FC<HeroScreenProps> = ({
         {/* Hero Title & Subtitle */}
         <div className="space-y-4 max-w-xl">
           <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-[#1c1a29] leading-tight tracking-tight font-display">
-            오늘, 어떤 하루가<br className="hidden sm:inline" /> 기다리고 있을까요?
+            오하아사
           </h1>
           <p className="text-base sm:text-lg text-[#474553] leading-relaxed font-normal">
             생년월일로 확인하는 나만의 오늘 운세.<br />
