@@ -6,4 +6,4 @@ stitch 와 ai studio를 통해 제작되었음<br>
 버셀 배포 주소 https://daily-fortune-puce.vercel.app/
 
 
-### 실습 연습을 위해 제작되었음
+ 실습 연습을 위해 제작되었음
